@@ -1,0 +1,17 @@
+# Java / Spring Boot spezifisch
+target/
+*.class
+*.jar
+*.war
+
+# IDEs und Editoren
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
