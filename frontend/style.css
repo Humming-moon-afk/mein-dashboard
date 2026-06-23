@@ -29,3 +29,15 @@ position: absolute;
 top: 20px;
 left: 20px;
 }
+
+.Depot {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+   border-radius: 10px;
+   background-color: rgba(255, 255, 255, 0.1);
+   backdrop-filter: blur(10px);
+padding: 40px;
+width: max-content;
+position: absolute;
+top: 20px;
+right: 20px;
+}
